@@ -1,2 +1,3 @@
 <h3>🐍 Snake Contribution Animation</h3>
-![snake gif](https://github.com/rnjsdndud00/rnjsdndud00/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/rnjsdndud00/rnjsdndud00/output/github-contribution-grid-snake.svg)
